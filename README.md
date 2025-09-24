@@ -1,5 +1,5 @@
 # 💫 About Me:
-Scriptkidde.
+Scriptkiddie.
 
 
 # 💻 Tech Stack:
