@@ -1,5 +1,5 @@
 # 💫 About Me:
-Scriptkidde. Uses Arch and Nix. Depends on ChatGPT to survive. Loves ricing.
+Scriptkidde.
 
 
 # 💻 Tech Stack:
