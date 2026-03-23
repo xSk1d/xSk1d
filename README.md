@@ -1,4 +1,4 @@
-cs student who builds stuff that scratches itches.
+information systems student who builds stuff that scratches itches.
 
 usually python, sometimes js or c++, occasionally hardware.
 
