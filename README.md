@@ -1,9 +1,7 @@
-cs student. i build things.
+cs student who builds stuff that scratches itches.
+
+usually python, sometimes js or c++, occasionally hardware.
 
 ---
 
-**languages**
-python · javascript · c++ · arduino
-
-**tools & interests**
-playwright · node.js · local llms · linux
+into scraping, local llms, and linux.
