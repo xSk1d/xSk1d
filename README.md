@@ -1,7 +1,22 @@
-information systems student who builds stuff that scratches itches.
+information systems student.
 
-usually python, sometimes js or c++, occasionally hardware.
+into creating and breaking things.
+
+a little bit of this a little bit of that in programming languages
+
+mostly typescript, c++, and python
 
 ---
 
-into scraping, local llms, and linux.
+todo
+
+[x] mod my psp
+[x] break my psp
+[ ] fix my psp
+[ ] build a home server
+[x] mod an old laptop
+[ ] build a cyberdeck
+[ ] make a tamagotchi
+[x] live
+[x] laugh
+[ ] love
